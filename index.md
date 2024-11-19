@@ -17,7 +17,7 @@ Here's a summary of the key features:
 
 ## Sign Up Form
 
-Interested in learning more? Fill out the form below:
+Please fill the form below to receive an invite to a private beta of the app.
 
 <form action="https://formspree.io/f/mrbglqrj" method="POST" style="display: flex; flex-direction: column; gap: 1rem; max-width: 500px; margin: 2rem 0;">
     <label style="display: flex; flex-direction: column; gap: 0.5rem;">
