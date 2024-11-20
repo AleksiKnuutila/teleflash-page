@@ -1,3 +1,7 @@
+<div align="center">
+<img src="assets/images/teleflash-logo.png" alt="TeleFlash Logo" style="width:400px;"/>
+</div>
+
 # TeleFlash: AI-Powered Telegram Analytics for Finnish Content
 
 TeleFlash delivers automated 8-hour summaries of Finland-related discussions from Russian and Ukrainian Telegram channels directly to Slack.
