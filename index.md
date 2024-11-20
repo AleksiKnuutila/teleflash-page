@@ -1,32 +1,36 @@
 ---
-title: My Project
+title: TeleFlash
 layout: default
 ---
 
-# Introduction
+# TeleFlash: AI-Powered Telegram Analytics for Finnish Content
 
-Welcome to my project! This is where you can provide an introduction about what your project does and why it's useful.
+TeleFlash operates in the dedicated Slack workspace "TeleFlash", posting automated 8-hour summaries to the #daily-summaries-tg channel. Our AI-driven tool helps track, analyze and understand discussions about Finland in Russian and Ukrainian Telegram channels.
 
-## Example of Summary
+## Key Features
 
-Here's a summary of the key features:
+* **Regular 8-Hour Reports**: Get comprehensive summaries in Slack three times daily
+* **Dedicated Slack Channel**: All summaries are posted to #daily-summaries-tg for easy access
+* **Source Preservation**: Each summary includes original Telegram messages and links
+* **AI Analysis**: Advanced NLP identifies and summarizes Finland-related content
+* **Trend Tracking**: Highlights emerging narratives and discussion patterns
 
-* Feature 1: Description of the first feature
-* Feature 2: Description of the second feature
-* Feature 3: Description of the third feature
+## Beta Access
 
-## Sign Up Form
-
-Please fill the form below to receive an invite to a private beta of the app.
+Join our private beta to get access to the TeleFlash Slack workspace:
 
 <form action="https://formspree.io/f/mrbglqrj" method="POST" style="display: flex; flex-direction: column; gap: 1rem; max-width: 500px; margin: 2rem 0;">
     <label style="display: flex; flex-direction: column; gap: 0.5rem;">
-        Your email:
+        Email:
         <input type="email" name="email" required style="padding: 0.5rem; border: 1px solid #ccc; border-radius: 4px;">
     </label>
     <label style="display: flex; flex-direction: column; gap: 0.5rem;">
-        Your message:
+        Organization:
+        <input type="text" name="organization" required style="padding: 0.5rem; border: 1px solid #ccc; border-radius: 4px;">
+    </label>
+    <label style="display: flex; flex-direction: column; gap: 0.5rem;">
+        Use Case:
         <textarea name="message" required style="padding: 0.5rem; border: 1px solid #ccc; border-radius: 4px; min-height: 100px;"></textarea>
     </label>
-    <button type="submit" style="padding: 0.5rem 1rem; background-color: #159957; color: white; border: none; border-radius: 4px; cursor: pointer; width: fit-content;">Send</button>
-</form> 
+    <button type="submit" style="padding: 0.5rem 1rem; background-color: #159957; color: white; border: none; border-radius: 4px; cursor: pointer; width: fit-content;">Request Access</button>
+</form>
