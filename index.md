@@ -1,6 +1,6 @@
 # TeleFlash: AI-Powered Telegram Summarisation of Finnish-related Content
 
-TeleFlash delivers automated 8-hour summaries of Finland-related posts from Russian and Ukrainian Telegram channels directly to Slack.
+TeleFlash delivers automated daily summaries of Finland-related posts from Russian and Ukrainian Telegram channels directly to Slack.
 
 ## How It Works
 
